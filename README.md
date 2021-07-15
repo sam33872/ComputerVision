@@ -23,7 +23,7 @@ Using features of the images to segment into a specified number of colours
     
     Segmentation of five colours
  
- ![](./images/fivSeg.PNG)
+ ![](./images/fiveSeg.PNG)
  
     Graphical effects
     
